@@ -7,5 +7,5 @@
 - 特定的對象的特定對話會做出反應
 - 特定對象的特定對話刪除後，會出示對話紀錄，並做出回應
 '`
-[運作畫面](https://github.com/Tsaisp/Discord_Bot_jijiman/blob/main/function_pic)
+[運作畫面]([bot_operation_rr.png](https://github.com/Tsaisp/Discord_Bot_jijiman/blob/98b8ecad39fcfa29bb684f11dcfafa17f2f14272/bot_operation_rr.png))
 '`
