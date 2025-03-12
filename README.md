@@ -9,3 +9,5 @@
 - 特定的對象的特定對話會做出反應
 -  ![image](https://github.com/Tsaisp/Discord_Bot_jijiman/blob/main/bot_operation_fword.png?raw=true)
 
+#環境
+- Node.js
